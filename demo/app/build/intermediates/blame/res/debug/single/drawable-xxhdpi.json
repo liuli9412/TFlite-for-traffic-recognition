@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_info.png",
+        "source": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/res/drawable-xxhdpi/ic_action_info.png"
+    }
+]

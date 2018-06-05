@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

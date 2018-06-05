@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

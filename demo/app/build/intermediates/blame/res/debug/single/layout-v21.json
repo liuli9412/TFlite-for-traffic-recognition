@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

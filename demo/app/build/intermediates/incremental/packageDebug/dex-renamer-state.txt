@@ -1,0 +1,4 @@
+#Tue Jun 05 11:37:23 CST 2018
+base.0=/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/transforms/jack/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/transforms/jack/debug/folders/1000/1f/main/classes.dex

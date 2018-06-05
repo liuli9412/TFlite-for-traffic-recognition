@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/liuli/.android/build-cache/178a7daa9238a040aa50741673a3418496a3e414/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] /home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/liuli/.android/build-cache/debf05407e22eaa2b59c6d24c6a80219f2e4b39f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/liuli/.android/build-cache/8135b6eca49de6ef26f335597bb65067a202d720/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/liuli/.android/build-cache/7d88ff73f104f77a4e162548ad3a7bc839d59b7b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/liuli/.android/build-cache/87fc4b5bfc3f313af5bf111cbf4e8d3b982490da/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:25.2.0] /home/liuli/.android/build-cache/8dd95d7bc6a5ec2e3b5c8243d75bb7b2d84e431f/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.2.0] /home/liuli/.android/build-cache/1fa9bc0aa0d7c36f0a524aa148c063cc67da3444/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/liuli/.android/build-cache/89faaf3e70df635c48f56b6b7dee09aa841986f4/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/liuli/.android/build-cache/a12403575abc43037468ac0e58d4506a29384763/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/liuli/.android/build-cache/16ef50b366bec146f58900f1652a9683217e8629/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/liuli/.android/build-cache/cb9e253e1f0e309231746a24a6b82afd9ae2b1f8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/liuli/.android/build-cache/b2a86f4eec474bac32b37713f8ab47649755510e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:28:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/liuli/.android/build-cache/178a7daa9238a040aa50741673a3418496a3e414/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] /home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/liuli/.android/build-cache/debf05407e22eaa2b59c6d24c6a80219f2e4b39f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/liuli/.android/build-cache/8135b6eca49de6ef26f335597bb65067a202d720/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/liuli/.android/build-cache/87fc4b5bfc3f313af5bf111cbf4e8d3b982490da/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/liuli/.android/build-cache/8dd95d7bc6a5ec2e3b5c8243d75bb7b2d84e431f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/liuli/.android/build-cache/1fa9bc0aa0d7c36f0a524aa148c063cc67da3444/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/liuli/.android/build-cache/89faaf3e70df635c48f56b6b7dee09aa841986f4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/liuli/.android/build-cache/a12403575abc43037468ac0e58d4506a29384763/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/liuli/.android/build-cache/16ef50b366bec146f58900f1652a9683217e8629/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/liuli/.android/build-cache/cb9e253e1f0e309231746a24a6b82afd9ae2b1f8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/liuli/.android/build-cache/b2a86f4eec474bac32b37713f8ab47649755510e/output/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] /home/liuli/.android/build-cache/ef1981ff3a7a2da4dc903319ae406f5966cad962/output/AndroidManifest.xml:4:5-5:19
+	android:label
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:30:9-45
+	android:theme
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:33:9-40:20
+	android:label
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:33:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:38:27-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE

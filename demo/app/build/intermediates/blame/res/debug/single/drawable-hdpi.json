@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/src/main/res/drawable-hdpi/tile.9.png"
+    }
+]

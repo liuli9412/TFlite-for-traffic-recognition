@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/liuli/.android/build-cache/c5f472d6499519820aa2cb3a51442c69425907c4/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/liuli/work/MyGitHub/TFlite_android/demo/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/liuli/.android/build-cache/79d7e671239b1fa3b7d2b92851f8c61ff112c676/output/res/drawable-v21/avd_hide_password.xml"
+    }
+]
